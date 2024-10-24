@@ -7,6 +7,9 @@ The Android Open Source Project (AOSP) is used globally to power devices of
 all shapes and sizes, not just phones but also exercise bikes and oscilloscopes.
 aosp-devs.org is here to help the people working with AOSP to create those devices
 
+## Come chat with us
+
+We have a Discord server for discussion. Click [here](https://discord.gg/hH59SPKYv8) to join us.
 
 ## Aims
 
