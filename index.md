@@ -39,5 +39,5 @@ To see the archives of past meetings, go to [https://aospandaaos.github.io/](htt
 FOSDEM 2025 will be over the weekend of the 1st and 2nd of February in
 Brussels, Belgium, and this time there will be a devroom dedicated to AOSP 
 
-For more information, take a look at the [fosdem25-cfp.md](Call for Participation)
+For more information, take a look at the [Call for Participation](fosdem25-cfp.html)
 
