@@ -1,5 +1,5 @@
 title: aosp-devs.org
 description: Creating a community for AOSP developers
 logo: /assets/img/logo.png
-show_downloads: true
-theme: jekyll-theme-leap-day
+show_downloads: false
+theme: jekyll-theme-cayman
