@@ -25,6 +25,8 @@ We have a Discord server for discussion. Click [here](https://discord.gg/hH59SPK
 
 ## Meetings
 
+### The AOSP and AAOS meetup
+
 The AOSP and AAOS meetup is an on-line meetup that happens every two months
 
 To join the group and find out when the next meeting is, go to
@@ -32,4 +34,10 @@ To join the group and find out when the next meeting is, go to
 
 To see the archives of past meetings, go to [https://aospandaaos.github.io/](https://aospandaaos.github.io/)
 
+### Android Open Source Project devroom at FOSDEM 2025
+
+FOSDEM 2025 will be over the weekend of the 1st and 2nd of February in
+Brussels, Belgium, and this time there will be a devroom dedicated to AOSP 
+
+For more information, take a look at the [fosdem25-cfp.md](Call for Participation)
 
