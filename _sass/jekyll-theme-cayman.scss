@@ -34,13 +34,39 @@ body {
   color: $body-text-color;
 }
 
-#logo {
-  position:absolute;
-  height: 4em;
-  width: 4em;
-  left: 4em;
-  top: 1em;
-  display: block;
+.titlebar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.titlebar img {
+    margin-top: 0.5em;
+    margin-right: 0.3em;
+    height: auto;
+}
+
+img.logo {
+
+  @include large {
+    height: 5em;
+    width: 5em;
+    left: 5em;
+    top: 5em;
+  }
+
+  @include medium {
+    height: 4em;
+    width: 4em;
+    left: 4em;
+    top: 4em;
+  }
+
+  @include small {
+  height: 3em;
+  width: 3em;
+  left: 3em;
+  top: 3em;
+  }
 }
 
 #skip-to-content {
