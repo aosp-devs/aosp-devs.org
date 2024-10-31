@@ -34,6 +34,15 @@ body {
   color: $body-text-color;
 }
 
+  #logo {
+    position:absolute;
+    height: 4em;
+    width: 4em;
+    left: 4em;
+    top: 1em;
+    display: block;
+  }
+
 #skip-to-content {
   height: 1px;
   width: 1px;
