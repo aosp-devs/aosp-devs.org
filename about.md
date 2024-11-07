@@ -11,6 +11,7 @@ alphabetical order):
 * Mishaal Rahman
 * Stefan Lengfeld
 * Sumit Semwal
+* Karim Yaghmour
 
 
 ## Contact
