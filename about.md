@@ -6,6 +6,7 @@ The *aosp-devs* group was founded in late 2024. The founding members are (in
 alphabetical order):
 
 * Amit Pundir
+* Bernhard (bero) Rosenkränzer
 * Chris Simmonds
 * David Brazdil
 * Karim Yaghmour
