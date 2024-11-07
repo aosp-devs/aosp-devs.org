@@ -7,11 +7,11 @@ alphabetical order):
 
 * Amit Pundir
 * Chris Simmonds
+* Karim Yaghmour
 * Mattijs Korpershoek
 * Mishaal Rahman
 * Stefan Lengfeld
 * Sumit Semwal
-* Karim Yaghmour
 
 
 ## Contact
