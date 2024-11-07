@@ -43,5 +43,19 @@ Generic Qualcomm SDM845 device support: [https://github.com/aospm/android_device
 
 ## Distros
 
-LineageOS: [https://lineageos.org/](https://lineageos.org/) - a free and open-source operating system for various devices, based on the Android mobile platform.
+* LineageOS: [https://lineageos.org/](https://lineageos.org/) - a free and open-source operating system for various devices, based on the Android mobile platform.
+* Replicant: [https://replicant.us/](https://replicant.us/) - an attempt to get rid of all non-open components. While it has fallen far behind upstream, it has some interesting beginnings and starting points of open drivers and firmware
+* GrapheneOS: [https://grapheneos.org/](https://grapheneos.org/) - Security and privacy minded AOSP fork for Pixel devices
+* CalyxOS: [https://calyxos.org/](https://calyxos.org/) - Privacy minded fork of AOSP with MicroG support
+* /e/ OS: [https://e.foundation/e-os/](https://e.foundation/e-os/) - Privacy minded LineageOS fork
+* GloDroid: [https://glodroid.github.io/](https://glodroid.github.io/) - AOSP distro for Orange Pi and other boards
 
+## Open Source apps that can replace functionality that exists in Android, but not AOSP
+
+* [K-9 Mail](https://k9mail.app) - Free email app
+* [Organic Maps](https://organicmaps.app) - Maps based on [OpenStreetMap](https://openstreetmap.org/) data
+* [VLC](https://www.videolan.org/vlc/download-android.html) - Media player
+* [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) - Chromium without Google requirements
+* [Forecastie](https://github.com/martykan/forecastie) - Weather applet
+* [Lawnchair](https://lawnchair.app/) - Full-featured launcher resembling the Pixel launcher
+* [MicroG](https://microg.org/) - Open, API and ABI compatible reimplementations of most GMS services
