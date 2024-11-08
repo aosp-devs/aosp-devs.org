@@ -9,6 +9,7 @@ alphabetical order):
 * Bernhard (bero) Rosenkränzer
 * Chris Simmonds
 * David Brazdil
+* Juhani Lehtimäki
 * Karim Yaghmour
 * Mattijs Korpershoek
 * Mishaal Rahman
