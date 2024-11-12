@@ -28,9 +28,8 @@ Baylibre have support packages for
 
 Other projects:
 
-Generic Qualcomm SDM845 device support: [https://github.com/aospm/android_device_generic_sdm845](https://github.com/aospm/android_device_generic_sdm845)
- - support for several handsets based on the SDM845
-
+* Generic Qualcomm SDM845 device support: [https://github.com/aospm/android_device_generic_sdm845](https://github.com/aospm/android_device_generic_sdm845)
+  - support for several handsets based on the SDM845
 
 ## Generic HALs
 
