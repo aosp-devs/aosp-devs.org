@@ -24,7 +24,7 @@ adds support to upstream AOSP for several boards including:
 Baylibre have support packages for
 
 * MediaTek MT8365 (i350): [https://baylibre.pages.baylibre.com/mediatek/rita/device/mediatek/boards/mtk-android-14/index.html](https://baylibre.pages.baylibre.com/mediatek/rita/device/mediatek/boards/mtk-android-14/index.html)
-* Texas Instruments: [https://baylibre.pages.baylibre.com/ti/android/doc/ti-android-15/index.html](https://baylibre.pages.baylibre.com/ti/android/doc/ti-android-15/index.html)
+* Texas Instruments AM62X and AM62PX: [https://baylibre.pages.baylibre.com/ti/android/doc/ti-android-15/index.html](https://baylibre.pages.baylibre.com/ti/android/doc/ti-android-15/index.html)
 
 Other projects:
 
