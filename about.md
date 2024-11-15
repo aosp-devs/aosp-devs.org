@@ -25,7 +25,7 @@ encourage, educate, help.
 The idea for aosp-devs began with a talk at Linux Plumbers Conference in 2024
 titled "The Search for an AOSP Developer Community"
  ([slides](https://lpc.events/event/18/contributions/1707/attachments/1538/3217/android-mc-community.pdf)),
- ([video](https://youtu.be/CTWQ-d7pj5s?t=2634)).
+ ([video](https://youtu.be/fMuva71ryeg?si=ObqxDqQ1zZTlO8-g)).
 Following on from that a group of us decided to create *aosp-devs*.
 The founding members are (in alphabetical order):
 
