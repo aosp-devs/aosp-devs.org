@@ -37,6 +37,7 @@ The founding members are (in alphabetical order):
 * Karim Yaghmour
 * Mattijs Korpershoek
 * Mishaal Rahman
+* Serban Constantinescu
 * Stefan Lengfeld
 * Sumit Semwal
 
