@@ -33,7 +33,7 @@ time will be dedicated to short presentations
 
 Please use this link to submit a proposal: [fosdem.org/submit](https://fosdem.org/submit)
 
-__The CfP deadline is 23:55 UTC Sunday, 1 December 2024.__
+__The CfP deadline is 22:55 UTC Sunday, 1 December 2024.__
 
 Speakers will be notified by Sunday 15th December
 
