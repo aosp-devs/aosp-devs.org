@@ -48,6 +48,7 @@ Other projects:
 * CalyxOS: [https://calyxos.org/](https://calyxos.org/) - Privacy minded fork of AOSP with MicroG support
 * /e/ OS: [https://e.foundation/e-os/](https://e.foundation/e-os/) - Privacy minded LineageOS fork
 * GloDroid: [https://glodroid.github.io/](https://glodroid.github.io/) - AOSP distro for Orange Pi and other boards
+* Project Celadon: [https://projectceladon.github.io/celadon-documentation/getting-started/getting-started.html](https://projectceladon.github.io/celadon-documentation/getting-started/getting-started.html) - AOSP distro for Intel platforms, virtual machines and containers [source](https://github.com/projectceladon)
 
 ## Open Source apps that can replace functionality that exists in Android, but not AOSP
 
