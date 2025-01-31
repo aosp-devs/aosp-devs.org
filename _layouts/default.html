@@ -26,11 +26,12 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       </div>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="./" class="btn">Home</a>
-      <a href="code.html" class="btn">Code</a>
-      <a href="using.html" class="btn">Use</a>
-      <a href="learning.html" class="btn">Learn</a>
-      <a href="about.html" class="btn">About</a>
+      <a href="/" class="btn">Home</a>
+      <a href="/code.html" class="btn">Code</a>
+      <a href="/using.html" class="btn">Use</a>
+      <a href="/learning.html" class="btn">Learn</a>
+      <a href="/newsletter.html" class="btn">News</a>
+      <a href="/about.html" class="btn">About</a>
 
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
