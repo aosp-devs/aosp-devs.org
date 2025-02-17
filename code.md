@@ -49,6 +49,10 @@ Other projects:
 * /e/ OS: [https://e.foundation/e-os/](https://e.foundation/e-os/) - Privacy minded LineageOS fork
 * GloDroid: [https://glodroid.github.io/](https://glodroid.github.io/) - AOSP distro for Orange Pi and other boards
 * Project Celadon: [https://projectceladon.github.io/celadon-documentation/getting-started/getting-started.html](https://projectceladon.github.io/celadon-documentation/getting-started/getting-started.html) - AOSP distro for Intel platforms, virtual machines and containers [source](https://github.com/projectceladon)
+* Projects by BlissLabs:
+  * Waydroid: [https://waydro.id/](https://waydro.id/) - A container-based approach to boot a full Android system on regular GNU/Linux systems running Wayland based desktop environments.
+  * BlissRoms: [https://blissroms.org/](https://blissroms.org/) - BlissRoms, an open-source operating system built upon Android Open Source Project, that offers a harmonious blend of customization, options, and security features.
+  * BlissOS: [https://blissos.org/](https://blissos.org/) - An Android-based open source OS that incorporates many optimizations, features, and that supports many more devices. What's more? It's available for just about any Chromebook, PC or tablet released in the last 10 years.
 
 ## Open Source apps that can replace functionality that exists in Android, but not AOSP
 
