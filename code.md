@@ -64,3 +64,7 @@ Other projects:
 * [Forecastie](https://github.com/martykan/forecastie) - Weather applet
 * [Lawnchair](https://lawnchair.app/) - Full-featured launcher resembling the Pixel launcher
 * [MicroG](https://microg.org/) - Open, API and ABI compatible reimplementations of most GMS services
+ 
+## Android in Automotive
+
+* [COVESA AOSP SDK](https://github.com/COVESA/covesa-aosp-sdk) - initiative to standardize vehicle interfaces for application developers. More about COVESA - [here](https://wiki.covesa.global/display/WIK4/Automotive+AOSP+App+Framework+Standardization+Expert+Group).
