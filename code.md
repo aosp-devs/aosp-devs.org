@@ -13,7 +13,7 @@ There are many projects that extend AOSP in various ways. Here we divide them in
 
 ## Board support
 
-The Devboards for Android project [(https://devboardsforandroid.linaro.org/en/latest/](https://devboardsforandroid.linaro.org/en/latest/)
+The Devboards for Android project [https://devboardsforandroid.linaro.org/en/latest/](https://devboardsforandroid.linaro.org/en/latest/)
 adds support to upstream AOSP for several boards including:
 
 * Qualcomm® Robotics RB5 Development Kit
