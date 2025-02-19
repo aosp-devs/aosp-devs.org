@@ -8,6 +8,7 @@ There are many projects that extend AOSP in various ways. Here we divide them in
   family of boards
 * Generic HALs: hardware support that applies to multiple boards
 * Android distros: modifications to the Android framework and applications
+* Open source apps: apps that can replace functionality that exists in Android, but not AOSP
 
 
 ## Board support
@@ -54,7 +55,7 @@ Other projects:
   * BlissRoms: [https://blissroms.org/](https://blissroms.org/) - BlissRoms, an open-source operating system built upon Android Open Source Project, that offers a harmonious blend of customization, options, and security features.
   * BlissOS: [https://blissos.org/](https://blissos.org/) - An Android-based open source OS that incorporates many optimizations, features, and that supports many more devices. What's more? It's available for just about any Chromebook, PC or tablet released in the last 10 years.
 
-## Open Source apps that can replace functionality that exists in Android, but not AOSP
+## Open Source apps
 
 * [K-9 Mail](https://k9mail.app) - Free email app
 * [Organic Maps](https://organicmaps.app) - Maps based on [OpenStreetMap](https://openstreetmap.org/) data
