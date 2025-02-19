@@ -36,8 +36,12 @@ To see the archives of past meetings, go to [https://aospandaaos.github.io/](htt
 
 ### Android Open Source Project devroom at FOSDEM 2025
 
-FOSDEM 2025 will be over the weekend of the 1st and 2nd of February in
-Brussels, Belgium, and this time there will be a devroom dedicated to AOSP 
+The devroom was a great success. We would like to thank all the speakers, the
+devroom organisers and the people who came along to watch, listen and take part in the discussion.
 
-For more information, take a look at the [schedule](https://fosdem.org/2025/schedule/track/aosp/).
+All of the talks are online now in our YouTube channel, 
+<https://www.youtube.com/@aosp-devs>.
+
+In addition, you can go to the FOSDEM event page, <https://fosdem.org/2025/schedule/track/aosp/>,
+to find links to the sides and the videos in various formats
 
