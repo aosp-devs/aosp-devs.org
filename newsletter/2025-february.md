@@ -22,6 +22,7 @@ Perhaps the most important thing to mention is that we held our first AOSP devro
 
 Linux kernel driver development and example: “Now this is what I was looking for. A self contained example, instead of the pixel's inheriting four levels of common-ish trees. This I can work with. Many thanks.”:
 [Discussion on Discord](https://discord.com/channels/1294292505419841678/1309451559263928340/1335906168689786901)
+and [driver example](https://gitlab.baylibre.com/baylibre/amlogic/atv/aosp/kernel/yukawa-device)
 
 Mention of Driver Development Kit (DDK):
 [Driver Development Kit (DDK)](https://android.googlesource.com/kernel/build/+/refs/heads/main/kleaf/docs/ddk/main.md?pli=1)
