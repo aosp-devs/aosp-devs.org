@@ -5,7 +5,7 @@ layout: default
 # aosp-devs.org January Newsletter
 
 Welcome to the first aosp-devs newsletter, keeping you up to date with things
-happening in the AOPS developer community.
+happening in the AOSP developer community.
 
 ## New Blogposts
 
@@ -18,7 +18,7 @@ happening in the AOPS developer community.
 [How We Found the Perfect Android Automotive Developer Kit Solution](https://www.snappautomotive.io/blog/how-we-found-the-perfect-android-automotive-developer-kit-solution)
 
 
-## Most notes from discord
+## Notes from discord
 
 New SDK-Addon example on github: [profusion/android-sdk-addon-example](https://github.com/profusion/android-sdk-addon-example)
 
