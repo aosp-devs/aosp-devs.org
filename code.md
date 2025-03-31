@@ -10,6 +10,14 @@ There are many projects that extend AOSP in various ways. Here we divide them in
 * Android distros: modifications to the Android framework and applications
 * Open source apps: apps that can replace functionality that exists in Android, but not AOSP
 
+## Code search
+
+To search the AOSP source code, you can use [Android Code Search][https://cs.android.com] provided by Google.
+
+To see the differences between Android releases, you can use
+[Android Open Source Project Changelogs](https://mikeng.github.io/aosp.changelog.to/)
+provided by the [github repo](https://github.com/mikeNG/aosp.changelog.to).
+
 
 ## Board support
 
