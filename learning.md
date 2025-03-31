@@ -13,5 +13,3 @@ devices based on AOSP: [https://www.opersys.com/training/](https://www.opersys.c
 Doulos have training courses specifically for AOSP developers:
 * [Embedded Android](https://www.doulos.com/training/arm-and-embedded-software/android/embedded-android/)
 * [Embedded Android for Automotive](https://www.doulos.com/training/arm-and-embedded-software/android/embedded-android-for-automotive/)
-
-

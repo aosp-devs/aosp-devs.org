@@ -11,7 +11,3 @@ in short, concise, solution-based topics
 The AOSP and AAOS Projects pages describe how to set up a build server and build
 stock AOSP for the emulator, VIM3 and Raspberry Pi boards: 
 [https://aospandaaos.github.io/projects.html](https://aospandaaos.github.io/projects.html)
-
-
-
-
