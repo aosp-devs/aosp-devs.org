@@ -27,7 +27,6 @@ Still, on a roughly annual basis, Google would snapshot its internal development
 In simple terms, Google now actively discourages using the AOSP main branch by making it private. Meanwhile, [they’re reinforcing their commitment to releasing stable, open source Android versions](https://source.android.com/docs/setup/about/faqs#:~:text=Our%20single%20most%20important%20goal%20with%20the%20AOSP%20is%20to%20make%20sure%20that%20open%2Dsource%20Android%20software%20is%20implemented%20as%20widely%20and%20compatibly%20as%20possible%2C%20to%20everyone%27s%20benefit.). 
 
 Here’s what this means:
-https://groups.google.com/g/android-platform/c/25aEVdSQ360
 * **The development of the next Android release takes place privately until it’s ready for release**, which is largely [unchanged from before](https://groups.google.com/g/android-platform/c/25aEVdSQ360) - except for the few projects previously developed as AOSP-first (Bionic, Bluetooth, Cuttlefish, Virtualization). It is important to note that in the past, even official Android OEMs struggled to [contribute](https://android-review.googlesource.com/c/platform/frameworks/base/+/2403952) to projects that were not AOSP-first.
 
 * **Android will continue to be published to AOSP via the android-latest-release branch**. After internal development concludes, a stable, thoroughly tested branch is pushed to AOSP. Thanks to the Trunk Stable improvements described below, this will now happen more frequently than in the past.
