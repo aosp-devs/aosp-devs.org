@@ -73,7 +73,7 @@ AOSP git tags for automotive:
 ### AOSP and AAOS May Meetup (online)
 
 *   Link: [The AOSP and AAOS May Meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/306803857/)
-*   Date and time: Wednesday, May 21, 2025 8:00 PM to 10:00 PM CEST
+*   Date and time: Wednesday, May 21, 2025 7:00 PM to 9:00 PM CEST (UTC+2)
 *   Location: online/jitsi
 
 
