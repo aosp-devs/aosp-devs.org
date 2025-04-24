@@ -27,6 +27,11 @@ We have a Discord server for discussion. Click [here](https://discord.gg/hH59SPK
 * Provide a conduit between Google, the AOSP community, and OEMs
 
 
+## Social media and github
+
+We are on [Linkedin](https://www.linkedin.com/company/aosp-devs/)
+and we have a [github account](https://github.com/aosp-devs). Feel free to follow!
+
 ## Meetings
 
 ### The AOSP and AAOS meetup
@@ -48,4 +53,3 @@ All of the talks are online now in our YouTube channel,
 
 In addition, you can go to the FOSDEM event page, <https://fosdem.org/2025/schedule/track/aosp/>,
 to find links to the sides and the videos in various formats
-
