@@ -32,7 +32,7 @@ adds support to upstream AOSP for several boards including:
 
 BayLibre have support packages for:
 
-* MediaTek Genio 700, 510 and 350 EVKs: [https://baylibre.pages.baylibre.com/mediatek/rita/device/mediatek/boards/mtk-android-14/index.html](https://baylibre.pages.baylibre.com/mediatek/rita/device/mediatek/boards/mtk-android-14/index.html)
+* MediaTek Genio 700, 510 and 350 EVKs: [https://baylibre.pages.baylibre.com/mediatek/rita/device/mediatek](https://baylibre.pages.baylibre.com/mediatek/rita/device/mediatek)
 * Texas Instruments AM62X and AM62PX: [https://baylibre.pages.baylibre.com/ti/android/doc/ti-android-15/index.html](https://baylibre.pages.baylibre.com/ti/android/doc/ti-android-15/index.html)
 
 Other projects:
