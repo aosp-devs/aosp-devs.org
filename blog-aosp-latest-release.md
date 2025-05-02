@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## What Recent Android Changes Mean for AOSP and Open Source
+# What Recent Android Changes Mean for AOSP and Open Source
 
 **TL;DR: AOSP remains open source and releases should increase in frequency**
 
@@ -15,7 +15,7 @@ The [Android Open Source Project](https://source.android.com/) (AOSP) is one of 
 Therefore when Google changes how it develops Android, the implications are significant for everyone involved.
 
 
-### How AOSP development works at Google
+## How AOSP development works at Google
 Google’s engineering teams develop the Android operating system for emulators (e.g. Goldfish,  Cuttlefish), Google Pixel devices and a limited number of Android partners that ship certified devices (i.e. licensed to use Google services) across the officially supported form factors [smartphones and tablets](https://www.android.com/), [Android Automotive](https://built-in.google/cars/), [Android TV](https://www.android.com/tv/), [Wear](https://wearos.google.com/), and [Android XR](https://www.android.com/xr/).
 
 These products don’t run AOSP directly. Instead, Google develops internal forks of Android, by form factor, that include proprietary frameworks, APIs, and hardware support. As a result, most of the new Android code is already [developed in private](https://groups.google.com/g/android-platform/c/MDzmcEgxFPw/m/BY-ESnoEqg0J) and the tip of the AOSP main branch is never thoroughly tested by Google’s own teams, leading to [frequent issues](https://issuetracker.google.com/issues?q=status:open%20componentid:381517&s=created_time:desc) for downstream users who tried to build from it.
@@ -23,7 +23,7 @@ These products don’t run AOSP directly. Instead, Google develops internal fork
 Still, on a roughly annual basis, Google would snapshot its internal development tree, remove proprietary code, and push out a stable AOSP branch (e.g. [android-12.0.0_r1](https://groups.google.com/g/android-building/c/ChjvrI4jGsU/m/p3tZGLCNAAAJ)). This snapshot brought the majority of new code to the public, but only after it was ready for release.
 
 
-### What has changed
+## What has changed
 In simple terms, Google now actively discourages using the AOSP main branch by making it private. Meanwhile, [they’re reinforcing their commitment to releasing stable, open source Android versions](https://source.android.com/docs/setup/about/faqs#:~:text=Our%20single%20most%20important%20goal%20with%20the%20AOSP%20is%20to%20make%20sure%20that%20open%2Dsource%20Android%20software%20is%20implemented%20as%20widely%20and%20compatibly%20as%20possible%2C%20to%20everyone%27s%20benefit.). 
 
 Here’s what this means:
@@ -38,7 +38,7 @@ The [Android common kernels](https://source.android.com/docs/core/architecture/k
 While this is disappointing for those who wish all development were public – it has largely already been the norm for Android. Therefore, in essence, very little changes and for most, it will remain business as usual – aside from making it harder to speculate upcoming features through the crumbles of AOSP-first projects.
 
 
-### How Trunk Stable could actually improve things
+## How Trunk Stable could actually improve things
 Google also recently announced a Trunk Stable development mode, which includes a [new flag-based development model](https://source.android.com/docs/setup/build/feature-flagging) and more [frequent Android releases](https://android-developers.googleblog.com/2024/10/android-sdk-release-update.html) - changes that could positively impact the downstream open source community.
 
 Under this model, features are built behind feature flags and remain dormant until they’re ready to be enabled or included for a specific device or form factor. Internally, this approach lets Google improve quality, by only enabling features when ready, and avoid forking the codebase for each form factor, potentially leading to a more unified codebase across devices.
@@ -64,6 +64,5 @@ The device ecosystem is an interconnected web of software and [hardware supplier
 One prominent example of large-scale innovation is the [Android support for RISC-V](https://opensource.googleblog.com/2023/10/android-and-risc-v-what-you-need-to-know.html). Though now officially embraced by Google, it was originally initiated by [Alibaba](https://riscv.org/blog/2021/11/how-alibaba-is-porting-risc-v-to-the-android-os-guoyin-chen-alibaba/) and wouldn't have been possible without AOSP being open source.
 
 
-### Conclusion
-While the recent changes to the Android development model may feel unsettling to those who want fully transparent development, the impact on the broader Android ecosystem is minimal and does not practically change things too much. 
-
+## Conclusion
+While the recent changes to the Android development model may feel unsettling to those who want fully transparent development, the impact on the broader Android ecosystem is minimal and does not practically change things too much.
