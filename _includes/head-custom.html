@@ -4,7 +4,7 @@
     posthog.init('phc_KVf4TipUhkBCCH44v4YzWmMWy05ElRu7w7xgUKchWNu', {
         api_host: 'https://eu.i.posthog.com',
         defaults: '2025-05-24',
-        person_profiles: 'identified_only', // or 'always' to create profiles for anonymous users as well
+        persistence: 'memory',
     })
     </script>
     <link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.github.build_revision | relative_url }}">
