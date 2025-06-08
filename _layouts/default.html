@@ -19,12 +19,12 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
     <header class="page-header" role="banner">
-      <div class=titlebar>
+      <a href="/" class=titlebar >
       {% if site.logo %}
         <img class="logo" src="{{site.logo | relative_url}}" alt="logo" />
       {% endif %}
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
-      </div>
+      </a>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <a href="/" class="btn">Home</a>
       <a href="/code.html" class="btn">Code</a>
