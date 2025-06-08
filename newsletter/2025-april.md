@@ -21,7 +21,7 @@ aosp-devs has a LinkedIn account now.  See
 
 Wondering if you are affected by the recent changes made by Google to the way
 it develops AOSP?  We have published an explainer that (hopefully) makes everything clear:
-[What Recent Android Changes Mean for AOSP and Open Source](https://aosp-devs.org/blog-aosp-latest-release)
+[What Recent Android Changes Mean for AOSP and Open Source](https://aosp-devs.org/blog-aosp-latest-release.html)
 
 For context, here is the announcement on source.android.com:
 [source.android.com: FAQ - android-latest-release](https://source.android.com/docs/setup/about/faqs?hl=de#android-latest-release)

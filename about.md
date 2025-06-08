@@ -52,4 +52,4 @@ If you want to contact us, you can
 
 ## Additional resources
 
-Here you can read our [code of conduct (CoC)](code-of-conduct).
+Here you can read our [code of conduct (CoC)](/code-of-conduct.html).

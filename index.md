@@ -13,7 +13,7 @@ We have a Discord server for discussion. Click [here](https://discord.gg/hH59SPK
 
 ## Recent Updates
 
-* [2025 April: What Recent Android Changes Mean for AOSP and Open Source](/blog-aosp-latest-release)
+* [2025 April: What Recent Android Changes Mean for AOSP and Open Source](/blog-aosp-latest-release.html)
 
 ## Aims
 
