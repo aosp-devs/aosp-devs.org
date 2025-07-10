@@ -6,5 +6,9 @@
         defaults: '2025-05-24',
         persistence: 'memory',
     })
+    if (location.hostname === "localhost" || location.hostname === "127.0.0.1" || location.hostname == "[::1]") {
+        posthog.opt_out_capturing()
+        console.log("Opt out capturing for local developments!");
+    }
     </script>
     <link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.github.build_revision | relative_url }}">
