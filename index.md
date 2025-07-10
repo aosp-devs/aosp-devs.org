@@ -11,9 +11,6 @@ aosp-devs.org is here to help the people working with AOSP to create those devic
 
 We have a Discord server for discussion. Click [here](https://discord.gg/hH59SPKYv8) to join us.
 
-## Recent Updates
-
-* [2025 April: What Recent Android Changes Mean for AOSP and Open Source](/blog-aosp-latest-release.html)
 
 ## Aims
 
