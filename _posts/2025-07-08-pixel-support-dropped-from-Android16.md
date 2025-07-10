@@ -4,7 +4,6 @@ excerpt_separator: <!--more-->
 title:  "Pixel support dropped from Android 16: what it means for the AOSP developer community"
 author: Chris Simmonds
 ---
-[![No Pixel support in AOSP for Android 16](/assets/images/blog-no-pixel.png)]({{ page.url }})
 
 Dropping Pixel support from Android 16 was a surprise. While the AOSP code base is still sufficient to build devices for new hardware, even without support from Google, it makes it harder because there is less reference code to show how the lower layers of the operating system are intended to work. Call to action: we can fill the gap by sharing the device knowledge that we have. That is exactly what we at [aosp-devs.org](https://aosp-devs.org) are here for
 
