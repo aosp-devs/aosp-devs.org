@@ -83,7 +83,7 @@ or opinion pieces will not be accepted.
 [slides](https://2net.co.uk/slides/aosp-aaos-meetup/2022-november-csimmonds-selinux.pdf)
 [video]( https://youtu.be/yxhDD3qJyVo)
 * The Android Platform Security Model (2023)
-(René Mayrhofer, Dianne Hackborn, et al) [blog](https://arxiv.org/pdf/1904.05572)
+(René Mayrhofer, Dianne Hackborn, et al) [research paper](https://arxiv.org/pdf/1904.05572)
 
 ## Tracing
 * Adventures with Systrace - measure and investigate the glass to glass latency in Android
