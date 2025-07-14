@@ -40,6 +40,27 @@ or opinion pieces will not be accepted.
 [slides](https://2net.co.uk/slides/aosp-aaos-meetup/2023-july-dbrazdil-rpc-binder.pdf)
 [video](https://youtu.be/undYyHZtiuk)
 
+
+## Books
+
+* Android Internals - A Confectioner's CookBook (or better books) (Jonathan Levi, 2015 to 2025)
+  [link to book](https://newandroidbook.com/)
+* Inside the Android OS: Building, Customizing, Managing and Operating Android System Services
+  (G. Blake Meike, Larry Schiefer, 2021)
+  [link to book](https://www.oreilly.com/library/view/inside-the-android/9780134096377/)
+* Android System Programming: Porting, customizing, and debugging Android HAL (Roger Ye, 2017)
+  [link to book](https://www.packtpub.com/en-de/product/android-system-programming-9781787125360)
+* Learning Embedded Android N Programming (Ivan Morgillo, Stefano Viola, 2016)
+  [link to book](https://www.oreilly.com/library/view/learning-embedded-android/9781785282881/)
+* Embedded Programming with Android: Bringing Up an Android System from Scratch
+  (Roger Ye, 2015)
+  [link to book](https://www.oreilly.com/library/view/embedded-programming-with/9780134030920/)
+* Android Security Internals: An In-Depth Guide to Android's Security Architectur (Nikolay Elenkov, 2014)
+  [link to book](https://www.oreilly.com/library/view/android-security-internals/9781457185496/)
+* Embedded Android (Karim Yaghmour, 2013)
+  [link to book](https://www.oreilly.com/library/view/embedded-android/9781449327958/)
+
+
 ## Booting
 * Android bootflow: experiments with U-Boot and GBL
 (BayLibre, January 2025)
