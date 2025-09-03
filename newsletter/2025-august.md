@@ -7,7 +7,7 @@ layout: default
 Welcome to the eighth aosp-devs newsletter, keeping you up to date with things
 happening in the AOSP developer community.
 
-And … again two days too late. Who would have thought that?
+And … again three days too late. Who would have thought that?
 
 
 ## Upcoming changes by Google for Application sideloading
