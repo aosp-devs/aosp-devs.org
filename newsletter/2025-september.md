@@ -91,7 +91,7 @@ presentation [How to Enable Android (AOSP) on Your Developer Board - Mattijs Kor
 
 ### AOSP and AAOS November Meetup (online)
 
-* Link: [The AOSP and AAOS September Meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/311085579/)
+* Link: [The AOSP and AAOS November Meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/311085579/)
 * Date and time: Wednesday, Nov 19 · 8:00 PM to 10:00 PM CET
 * Location: online with Jitsi Meet
 
