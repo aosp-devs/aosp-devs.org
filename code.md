@@ -74,6 +74,7 @@ Other projects:
 * [MicroG](https://microg.org/) - Open, API and ABI compatible reimplementations of most GMS services
 * [f-droid.org](https://f-droid.org) - a free software app store that distributes thousands of free software apps
 * [F-Droid](https://gitlab.com/fdroid) - free software stack for building app stores and app distribution systems.
+* [UnifiedPush](https://unifiedpush.org) - Decentralized push notification system
  
 ## Android in Automotive
 
