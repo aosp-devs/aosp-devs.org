@@ -29,7 +29,7 @@ Karim sorted the recent changes and news around AOSP into the bigger picture. Wa
 [Reading the tea leaves -- What could the future hold for the AOSP?](https://www.youtube.com/watch?v=KbA5An_YCvo)
 
 The talks from the AOSP devroom at IndiaFOSS are online. See on youtube:
-[IndiaFOSS 2025 | Devroom : AOSP (Android Open Source Project)](https://www.youtube.com/watch?v=l1Ktp-6SvwI)
+[AOSP Devroom at IndiaFOSS 2025](https://www.youtube.com/playlist?list=PLOGilj110olwA2QSne1jYdWTPJY6OLR1T)
 
 And
 [Mastering SELinux in AOSP - From Frustration to Control](https://www.youtube.com/watch?v=SykYnPC5Yrg)
@@ -119,7 +119,7 @@ presentation [How to Enable Android (AOSP) on Your Developer Board - Mattijs Kor
 * Link to the devroom and CfP: [Android Open Source Project (AOSP) devroom](https://fossunited.org/indiafoss/2025/devrooms/aosp)
 * Date and time: 19 - 21 September 2025
 * Location: NIMHANS Convention Centre, Bengaluru, India
-* Recordings: [IndiaFOSS 2025 - Devroom : AOSP (Android Open Source Project)](https://www.youtube.com/watch?v=l1Ktp-6SvwI)
+* Recordings: [AOSP Devroom at IndiaFOSS 2025](https://www.youtube.com/playlist?list=PLOGilj110olwA2QSne1jYdWTPJY6OLR1T)
 
 
 ### DroidCon Berlin (in-person)
