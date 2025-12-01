@@ -37,7 +37,7 @@ members of the group met at:
 * [Linaro Connect](https://www.linaro.org/connect/) in Lisbon,
 * [OSS India](https://events.linuxfoundation.org/open-source-summit-india/) in Mumbai,
 * [OSS Europe](https://events.linuxfoundation.org/archive/2025/open-source-summit-europe/) in Amsterdam,
-* [IndiaFOSSi](https://fossunited.org/indiafoss/2025/devrooms/aosp), in Bengalurui,
+* [IndiaFOSS](https://fossunited.org/indiafoss/2025/devrooms/aosp), in Bengaluru,
 * [Droidcon Berlin](https://www.droidcon.com/events/droidcon-berlin-2025/) 
 
 We will continue with both types of meetings into the future.
