@@ -35,7 +35,7 @@ members of the group met at:
 
 * [FOSDEM](https://fosdem.org/2025/schedule/track/aosp/), in Brussels,
 * [Linaro Connect](https://www.linaro.org/connect/) in Lisbon,
-* [OSS India](https://events.linuxfoundation.org/open-source-summit-india/) in Mumbai,
+* [OSS India](https://events.linuxfoundation.org/open-source-summit-india/) in Hyderabad,
 * [OSS Europe](https://events.linuxfoundation.org/archive/2025/open-source-summit-europe/) in Amsterdam,
 * [IndiaFOSS](https://fossunited.org/indiafoss/2025/devrooms/aosp), in Bengaluru,
 * [Droidcon Berlin](https://www.droidcon.com/events/droidcon-berlin-2025/) 
