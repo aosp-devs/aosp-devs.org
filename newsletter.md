@@ -6,6 +6,8 @@ layout: default
 
 List of all published newsletters (latest at the top):
 
+[2025 November Newsletter](newsletter/2025-november.html)
+
 [2025 October Newsletter](newsletter/2025-october.html)
 
 [2025 September Newsletter](newsletter/2025-september.html)
