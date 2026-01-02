@@ -1,0 +1,110 @@
+---
+layout: default
+---
+
+# aosp-devs.org December newsletter
+
+Welcome to the twelfth aosp-devs newsletter, keeping you up to date with things
+happening in the AOSP developer community.
+
+Again, too late. But right on time to wish everyone a happy new year.
+
+
+## FOSDEM'26 - FOSS on Mobile devroom
+
+The [schedule for the FOSS on Mobile devroom](https://fosdem.org/2026/schedule/track/foss-on-mobile/)
+is ready. There will be a full day of content with 21 talks. See you there.
+
+
+## LPC - talks
+
+The recordings of [Android Microconference on LPC](https://lpc.events/event/19/sessions/219/#20251213)
+are available. Direct links to slides and the video are behind the attachment
+symbol for every talk. See the screenshot:
+
+![Screenshot of Schedule with tooltip](2025-december-screenshot.png)
+
+And here you find the complete
+[YouTube playlist for all LPC talks](https://www.youtube.com/watch?v=hR_lXC4Ylc8&list=PLVsQ_xZBEyN3-ZbrEgTiCpm1-Sg_ihLVF&index=181).
+
+
+## And other notes from Discord
+
+Baylibre has published Android 16 for VIM3 and VIM3L.
+See [Welcome to yukawa-android’s documentation!](https://baylibre.pages.baylibre.com/amlogic/atv/doc/yukawa-android-16/android/android-build.html):
+[Discussion on Discord](https://discord.com/channels/1294292505419841678/1294292505927487510/1448265109104361492)
+
+[Granting runtime permission to priv-apps](https://kimmandoo.medium.com/granting-runtime-permission-to-priv-apps-6e256ab67335):
+[Discussion on Discord](https://discord.com/channels/1294292505419841678/1309452712852721696/1445828961652445386)
+
+Talk about running Android on the Raspberry PI.
+Pointing to [github.com/raspberry-vanilla/android_local_manifest](https://github.com/raspberry-vanilla/android_local_manifest)
+[Discussion on Discord](https://discord.com/channels/1294292505419841678/1309452712852721696/1445842406657232998)
+
+Question about running Android on NXP boards with links to
+[nxp-imx-android](https://github.com/nxp-imx-android) and
+[Buy hardware, own software](https://sevenlab.de/2025/10/09/diy-software/)
+[Discussion on Discord](https://discord.com/channels/1294292505419841678/1294292505927487510/1456768272694251601)
+
+Talk about building Apps that are using the System API in Android Studio
+with pointers to the repo [github.com/Reginer/aosp-android-jar](https://github.com/Reginer/aosp-android-jar):
+[Discussion on Discord](https://discord.com/channels/1294292505419841678/1309452712852721696/1449131054857457755)
+
+Talk about using virtual devices (cuttlefish or goldfish) for testing in CI:
+[Discussion on Discord](https://discord.com/channels/1294292505419841678/1294292505927487510/1447276092334538793)
+
+Talk about best development board for Android:
+[Discussion on Discord](https://discord.com/channels/1294292505419841678/1294292505927487510/1450165924232429732)
+
+Access binder services from the NDK is not possible:
+[Discussion on Discord](https://discord.com/channels/1294292505419841678/1294292505927487510/1453569200462499997)
+
+
+## Upcoming Events
+
+### AOSP and AAOS January Meetup (online)
+
+* Link: [The AOSP and AAOS January Meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/312079993/)
+* Date and time: Wed, Jan 28, 2026 · 7:00 PM to 9:00 PM CET
+* Location: online with Jitsi Meet
+
+
+### FOSDEM - FOSS on Mobile devroom (in-person)
+
+* Link: [FOSDEM'26](https://fosdem.org/2026/)
+* Date: 31 January & 1 February 2026
+* Location: Brussels, Europe
+* Schedule: [FOSS on mobile devroom](https://fosdem.org/2026/schedule/track/foss-on-mobile/)
+
+
+### Open Source Summit India (in-person)
+
+* Link: [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/)
+* Date: 16-17 June 2026
+* Location: Mumbai, India
+
+
+### Linux Plumbers Conference (in-person and remote)
+
+* Link: [LPC 2026 - Overview](https://lpc.events/event/20/)
+* Date: Oct 5 – 7, 2026
+* Location: Prague Congress Centre, Prague, Czechia
+
+
+### Open Source Summit Europe (in-person)
+
+* Link: [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)
+* Date: 7-9 October 2026
+* Location: Prague Congress Centre, Prague, Czechia
+
+
+## Past events
+
+### Linux Plumbers Conference - Android Micro Conference (in-person and remote)
+
+* Link: [Android MC](https://lpc.events/event/19/contributions/1992/)
+* Date: Dec 11 – 13, 2025
+* Location: Toranomon Hills Forum, Tokyo, Japan
+* Schedule: [LPC detailed schedule](https://lpc.events/event/19/timetable/?view=lpc)
+* Recordings: [Android Microconference on LPC](https://lpc.events/event/19/sessions/219/#20251213)
+* Recordings: [YouTube playlist for all LPC talks](https://www.youtube.com/watch?v=hR_lXC4Ylc8&list=PLVsQ_xZBEyN3-ZbrEgTiCpm1-Sg_ihLVF&index=181)
