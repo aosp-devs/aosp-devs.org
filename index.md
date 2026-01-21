@@ -26,8 +26,9 @@ We have a Discord server for discussion. Click [here](https://discord.gg/hH59SPK
 
 ## Social media and github
 
-We are on [Linkedin](https://www.linkedin.com/company/aosp-devs/)
-and we have a [github account](https://github.com/aosp-devs). Feel free to follow!
+We are on [Linkedin (@aosp-devs)](https://www.linkedin.com/company/aosp-devs/),
+on [mastodon (@aosp_devs)](https://androiddev.social/@aosp_devs),
+and we have a [github account (@aosp-devs)](https://github.com/aosp-devs). Feel free to follow!
 
 ## Meetings
 
