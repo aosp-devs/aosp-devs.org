@@ -44,11 +44,10 @@ To see the archives of past meetings, go to [https://aospandaaos.github.io/](htt
 
 ### Android Open Source Project at FOSDEM 2026
 
-We are joining forces with the [FOSS on Mobile](https://fosdem.org/2026/schedule/track/foss-on-mobile/)
+We have joined forces with the [FOSS on Mobile](https://fosdem.org/2026/schedule/track/foss-on-mobile/)
 devroom to host a range of presentations on AOSP, Automotive, booting, as well as many other mobile topics.
-Now is your chance to be part of the conversation.
-The [CfP](https://lists.fosdem.org/pipermail/fosdem/2025q4/003687.html) is out, but please be quick because it closes on 1st December (at 23:59 UTC).
-We look forward to hearing from you.
+There was a full day with 21 talks and a lot of different speakers.
+Recordings are available on the FOSDEM website on the individual talk pages.
 
 
 ### Android Open Source Project devroom at FOSDEM 2025
