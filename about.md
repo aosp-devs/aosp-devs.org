@@ -22,11 +22,26 @@ encourage, educate, help.
 
 ## Who are we?
 
+Currently, the following steering members coordinate the *aosp-devs.org* community
+(in alphabetical order):
+
+* Amit Pundir
+* Bernhard (bero) Rosenkränzer
+* Chris Simmonds
+* David Brazdil
+* Karim Yaghmour
+* Serban Constantinescu
+* Stefan Lengfeld
+* Sumit Semwal
+
+
+## Where do we come from?
+
 The idea for aosp-devs began with a talk at Linux Plumbers Conference in 2024
 titled "The Search for an AOSP Developer Community"
  ([slides](https://lpc.events/event/18/contributions/1707/attachments/1538/3217/android-mc-community.pdf)),
  ([video](https://youtu.be/fMuva71ryeg?si=ObqxDqQ1zZTlO8-g)).
-Following on from that a group of us decided to create *aosp-devs*.
+Following on from that a group of us decided to create *aosp-devs.org*.
 The founding members are (in alphabetical order):
 
 * Amit Pundir
@@ -40,7 +55,6 @@ The founding members are (in alphabetical order):
 * Serban Constantinescu
 * Stefan Lengfeld
 * Sumit Semwal
-
 
 ## Contact
 
