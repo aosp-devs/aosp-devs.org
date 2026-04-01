@@ -12,19 +12,17 @@ feel free to open a [pull request here](https://github.com/aosp-devs/aosp-devs.o
 
 ## Upcoming Events
 
-### AOSP and AAOS Meetup (online)
+### AOSP and AAOS May Meetup (online)
 
-* Link: [The AOSP and AAOS March Meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/312460202/)
-* Date and time: Wednesday, Mar 18 · 7:00 PM to 8:30 PM CET
+* Link: [The AOSP and AAOS May Meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/312460222/)
+* Date and time: Wednesday, May 27 · 7:00 PM to 8:30 PM CEST
 * Location: online with Jitsi
-
 
 ### Open Source Summit India (in-person)
 
 * Link: [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/)
 * Date: 16-17 June 2026
 * Location: Mumbai, India
-
 
 ### Linux Plumbers Conference (in-person and remote)
 
@@ -44,12 +42,14 @@ feel free to open a [pull request here](https://github.com/aosp-devs/aosp-devs.o
 
 This list contains past events since december 2025.
 
+### AOSP and AAOS March Meetup (online)
 
-### AOSP and AAOS January Meetup (online)
-
-* Link: [The AOSP and AAOS January Meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/312079993/)
-* Date and time: Wed, Jan 28, 2026 · 7:00 PM to 9:00 PM CET
+* Link: [The AOSP and AAOS March Meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/312460202/)
+* Date and time: Wednesday, Mar 18 · 7:00 PM to 8:30 PM CET
 * Recordings: [meetups](https://aospandaaos.github.io/meetup.html)
+* Content:
+   * Talk: Acceleration x AOSP: Slashing build times without migration by Peleg Rand, Incredibuild
+   * Discussion: The state of Embedded Android
 
 
 ### FOSDEM - FOSS on Mobile devroom (in-person)
@@ -58,6 +58,16 @@ This list contains past events since december 2025.
 * Date: 31 January & 1 February 2026
 * Location: Brussels, Europe
 * Schedule and recordings: [FOSS on mobile devroom](https://fosdem.org/2026/schedule/track/foss-on-mobile/)
+
+
+### AOSP and AAOS January Meetup (online)
+
+* Link: [The AOSP and AAOS January Meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/312079993/)
+* Date and time: Wed, Jan 28, 2026 · 7:00 PM to 9:00 PM CET
+* Recordings: [meetups](https://aospandaaos.github.io/meetup.html)
+* Content:
+   * Talk 1: Keeping Android up to date when the OEM fails to, by Michael Zimmermann, 7/LAB
+   * Talk 2: Debugging Android OS at Scale: AI-Powered Log Analysis, by Varun Chitre, logcat.ai
 
 
 ### Linux Plumbers Conference - Android Micro Conference (in-person and remote)
