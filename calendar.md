@@ -30,13 +30,19 @@ feel free to open a [pull request here](https://github.com/aosp-devs/aosp-devs.o
 * Date: Oct 5 – 7, 2026
 * Location: Prague Congress Centre, Prague, Czechia
 
-
 ### Open Source Summit Europe (in-person)
 
 * Link: [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)
 * Date: 7-9 October 2026
 * Location: Prague Congress Centre, Prague, Czechia
 
+### next.app devcon / droidcon Berlin (in-person)
+
+* Link: [next.app devcon](https://www.nextappcon.com/)
+* Link: [droidcon](https://www.nextappcon.com/droidcon)
+* Date: 7-9 OCT, 2026
+* CfP: open until 01 Jul 2026
+* Location: CITY CUBE, BERLIN, GERMANY
 
 ## Past events
 
