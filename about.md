@@ -61,7 +61,7 @@ The founding members are (in alphabetical order):
 If you want to contact us, you can
 
 * reach us on the [discord server](https://discord.gg/hH59SPKYv8) or
-* send a email to [aosp-devs@groups.io](mailto:aosp-devs@groups.io)
+* send a email to [devs@aosp-devs.org](mailto:devs@aosp-devs.org)
 
 
 ## Additional resources
