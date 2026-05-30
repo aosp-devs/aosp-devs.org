@@ -12,29 +12,38 @@ feel free to open a [pull request here](https://github.com/aosp-devs/aosp-devs.o
 
 ## Upcoming Events
 
-### AOSP and AAOS May Meetup (online)
-
-* Link: [The AOSP and AAOS May Meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/312460222/)
-* Date and time: Wednesday, May 27 · 7:00 PM to 8:30 PM CEST
-* Location: online with Jitsi
-
 ### Open Source Summit India (in-person)
 
 * Link: [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/)
 * Date: 16-17 June 2026
 * Location: Mumbai, India
 
+### AOSP and AAOS July Meetup (online)
+
+* Link: [The AOSP and AAOS July Meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/314976125/)
+* Date and time: Wednesday, Jul 15 · 7:00 PM to 8:30 PM CEST
+* Location: online with Jitsi
+
+### IndiaFOSS (in-person)
+
+* Link: [IndiaFOSS 2026](https://fossunited.org/indiafoss/2026)
+* Date: 26-27 September 2026
+* Location: NIMHANS Convention Centre, Bengaluru, India
+* Including [AOSP devroom](https://fossunited.org/indiafoss/2026/devrooms/aosp). CfP is open until June 15th.
+
 ### Linux Plumbers Conference (in-person and remote)
 
 * Link: [LPC 2026 - Overview](https://lpc.events/event/20/)
 * Date: Oct 5 – 7, 2026
 * Location: Prague Congress Centre, Prague, Czechia
+* Including [Android MC (Micro Conference)](https://lpc.events/event/20/contributions/2324/). CfP is open until August 7th.
 
 ### Open Source Summit Europe (in-person)
 
 * Link: [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)
 * Date: 7-9 October 2026
 * Location: Prague Congress Centre, Prague, Czechia
+* CfP open until: [Wednesday, 24 June at 23:59 CEST (UTC +2)](https://events.linuxfoundation.org/open-source-summit-europe/program/cfp/#overview)
 
 ### next.app devcon / droidcon Berlin (in-person)
 
@@ -47,6 +56,16 @@ feel free to open a [pull request here](https://github.com/aosp-devs/aosp-devs.o
 ## Past events
 
 This list contains past events since december 2025.
+
+
+### AOSP and AAOS May Meetup (online)
+
+* Link: [The AOSP and AAOS May Meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/312460222/)
+* Date and time: Wednesday, May 27 · 7:00 PM to 8:30 PM CEST
+* Recordings: [Meetups](https://aospandaaos.github.io/meetup.html)
+* Content:
+   * Talk: Cuttlefish Development & Deployment - Sergio Rodriguez, Google
+
 
 ### AOSP and AAOS March Meetup (online)
 
