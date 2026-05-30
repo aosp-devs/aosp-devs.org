@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<h1>Blog posts</h1>
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -11,4 +13,4 @@ layout: default
   {% endfor %}
 </ul>
 
-
+The blog posts are also availabe as a [RSS feed](/feed.xml).
