@@ -6,38 +6,10 @@ layout: default
 
 List of all published newsletters (latest at the top):
 
-[2026 June Newsletter](newsletter/2026-june.html)
-
-[2026 May Newsletter](newsletter/2026-may.html)
-
-[2026 April Newsletter](newsletter/2026-april.html)
-
-[2026 March Newsletter](newsletter/2026-march.html)
-
-[2026 February Newsletter](newsletter/2026-february.html)
-
-[2026 January Newsletter](newsletter/2026-january.html)
-
-[2025 December Newsletter](newsletter/2025-december.html)
-
-[2025 November Newsletter](newsletter/2025-november.html)
-
-[2025 October Newsletter](newsletter/2025-october.html)
-
-[2025 September Newsletter](newsletter/2025-september.html)
-
-[2025 August Newsletter](newsletter/2025-august.html)
-
-[2025 July Newsletter](newsletter/2025-july.html)
-
-[2025 June Newsletter](newsletter/2025-june.html)
-
-[2025 May Newsletter](newsletter/2025-may.html)
-
-[2025 April Newsletter](newsletter/2025-april.html)
-
-[2025 March Newsletter](newsletter/2025-march.html)
-
-[2025 February Newsletter](newsletter/2025-february.html)
-
-[2025 January Newsletter](newsletter/2025-january.html)
+{% for post in site.posts %}
+{% if post.categories contains "newsletter" %}
+<p>
+  <a href="{{ post.url }}">{{ post.date | date: "%Y" }} {{ post.title }}</a>
+</p>
+{% endif %}
+{% endfor %}
