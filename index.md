@@ -50,12 +50,8 @@ We organize and create a couple of things:
 
 ### The AOSP and AAOS meetup
 
-The AOSP and AAOS meetup is an on-line meetup that happens every two months
-
-To join the group and find out when the next meeting is, go to
-[https://www.meetup.com/the-aosp-and-aaos-meetup/](https://www.meetup.com/the-aosp-and-aaos-meetup/)
-
-To see the archives of past meetings, go to [https://aospandaaos.github.io/](https://aospandaaos.github.io/)
+The AOSP and AAOS meetup is an on-line meetup that happens every two months.
+To join the group, find out when the next meeting is and see past meetings, go to [AOSP and AAOS meetup](/meetup/).
 
 
 ### Android Open Source Project at FOSDEM 2026
