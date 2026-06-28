@@ -28,11 +28,14 @@ Currently, the following steering members coordinate the *aosp-devs.org* communi
 * Amit Pundir
 * Bernhard (bero) Rosenkränzer
 * Chris Simmonds
+* Daniel Fages
 * David Brazdil
 * Karim Yaghmour
+* Romain Hunault
 * Serban Constantinescu
 * Stefan Lengfeld
 * Sumit Semwal
+* Viktor Mukha
 
 
 ## Where do we come from?
