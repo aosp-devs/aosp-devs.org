@@ -12,12 +12,6 @@ feel free to open a [pull request here](https://github.com/aosp-devs/aosp-devs.o
 
 ## Upcoming Events
 
-### Open Source Summit India (in-person)
-
-* Link: [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/)
-* Date: 16-17 June 2026
-* Location: Mumbai, India
-
 ### AOSP and AAOS July Meetup (online)
 
 * Link: [The AOSP and AAOS July Meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/314976125/)
@@ -56,6 +50,12 @@ feel free to open a [pull request here](https://github.com/aosp-devs/aosp-devs.o
 ## Past events
 
 This list contains past events since december 2025.
+
+### Open Source Summit India (in-person)
+
+* Link: [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/)
+* Date: 16-17 June 2026
+* Location: Mumbai, India
 
 
 ### AOSP and AAOS May Meetup (online)
