@@ -6,6 +6,8 @@ layout: default
 
 List of all published newsletters (latest at the top):
 
+[2026 June Newsletter](newsletter/2026-june.html)
+
 [2026 May Newsletter](newsletter/2026-may.html)
 
 [2026 April Newsletter](newsletter/2026-april.html)
