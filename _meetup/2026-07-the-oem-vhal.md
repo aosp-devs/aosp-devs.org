@@ -3,8 +3,8 @@ layout: meetup
 title: "July 2026: The OEM VHAL"
 ---
 
-This meetup will take place online via Jitsi. You will receive the access link
-with your registration.
+This meetup will take place online via Jitsi. During the transition away from
+Meetup.com, access details are shared through the event announcement channels.
 
 * Date and time: Wednesday, July 15, 2026, 7:00 PM to 8:30 PM CEST
 * Time in London: 6:00 PM to 7:30 PM BST (UTC+1)

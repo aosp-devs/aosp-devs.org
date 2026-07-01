@@ -6,41 +6,66 @@ layout: default
 
 ![](/assets/images/aospandaaos-logo.png)
 
-The AOSP and AAOS Meetup Group is a forum for talking about building,
-developing, and testing products based on AOSP (Android Open Source Project)
-and AAOS (Android Automotive OS).
+The AOSP and AAOS meetup is an online meeting place for people working with
+the open source parts of Android, especially AOSP and Android Automotive.
+The goal is to share practical experience: how people build products, solve
+technical problems, test and debug systems, and work with the Android platform
+in the real world.
 
-Meetups are the main reason for the existence of the group. Meetings are
-held every two months starting in January (so, January, March, May, July,
-September, and November). The first was in March 2022. Each meeting is about 2
-hours long, starting with time for meet and greet, followed by two or three
-talks of up to 30 minutes each on any topics that we find interesting, followed
-by time for networking. Since AOSP and AAOS developers are scattered over a
-wide area, this is an online meetup. We use a Meetup.com group to coordinate
-the live meetups - https://www.meetup.com/the-aosp-and-aaos-meetup/
-
-* you will get a link to the jitsi session when you RSVP to a meeting
-
-The talks are recorded and available online for those who didn’t make the
-meeting, and also to create an archive of useful information.
-
-TODOs: rework content
-
-## Joining a meetup
-
-* describe the new process: discord and email instead of meetup.com
+Meetings are held every two months. The series started in March 2022. A
+typical session lasts about two hours and includes a short welcome, two or
+three talks, and time for discussion and networking.
 
 ## Events
 
 <ul>
 {% for meetup in site.meetup %}
   <li>
-    <a href="{{ meetup.url }}">{{meetup.title}}</a>
+    <a href="{{ meetup.url }}">{{ meetup.title }}</a>
   </li>
 {% endfor %}
 </ul>
 
+## Joining a meetup
+
+Upcoming meetup details are published on the individual event pages above.
+Announcements are made through *aosp-devs.org* and the
+[aosp-devs Discord server](https://discord.gg/hH59SPKYv8). You can also follow
+the site RSS feed or contact the organisers at
+[devs@aosp-devs.org](mailto:devs@aosp-devs.org).
+
+For online sessions, access details are shared through the channels listed on
+each event page.
+
+## Speak at a meetup
+
+Input is welcome from all members of the group. Talks can be formal or
+informal: slides, demos, short presentations, or open discussions are all
+useful.
+
+Typical topics include:
+
+* good sources of information about AOSP, including conferences, blog posts,
+  and other community resources
+* running AOSP on real hardware, for example Raspberry Pi
+* the Soong build system and Blueprint
+* testing and debugging
+* emulators such as Cuttlefish, Goldfish, and Trout
+* security topics including SELinux, seccomp, and sandboxing
+* encryption, secure boot, and trusted execution environments
+
+If you have something to say, get in touch on Discord or by email.
 
 ## History
 
-TODO some words about the history, e.g. the other domain.
+The meetup started in March 2022 as an independent online series for AOSP and
+AAOS developers. For the first years, it was spread across two places:
+
+* [aospandaaos.github.io](https://aospandaaos.github.io/) for slides, videos,
+  and past meetup pages
+* [Meetup.com](https://www.meetup.com/the-aosp-and-aaos-meetup/) for event
+  listings and RSVPs
+
+The meetup is now continued here on *aosp-devs.org*, which is the main entry
+point for new events. Slides and videos from past talks remain available on
+the [AOSP and AAOS meetup archive](https://aospandaaos.github.io/).
