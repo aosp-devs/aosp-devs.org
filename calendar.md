@@ -56,6 +56,7 @@ This list contains past events since december 2025.
 * Link: [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/)
 * Date: 16-17 June 2026
 * Location: Mumbai, India
+* Recordings: [Youtube Playlist](https://www.youtube.com/playlist?list=PLEAGIV5X5B1U)
 
 
 ### AOSP and AAOS May Meetup (online)
