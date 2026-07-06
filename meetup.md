@@ -12,9 +12,18 @@ The goal is to share practical experience: how people build products, solve
 technical problems, test and debug systems, and work with the Android platform
 in the real world.
 
-Meetings are held every two months. The series started in March 2022. A
-typical session lasts about two hours and includes a short welcome, two or
-three talks, and time for discussion and networking.
+Meetings are held every two months. A typical session lasts about one and a
+half hour and includes a short welcome, one or two talks, and time for
+discussion and networking.
+
+## Joining a meetup
+
+Upcoming meetup details are published on the individual event pages below.
+Announcements are made through *aosp-devs.org* and the
+[aosp-devs Discord server](https://discord.gg/hH59SPKYv8). You can follow
+the site [RSS feed](/feed.xml) as well.
+
+Access details are shared through the channels listed on each event page.
 
 ## Events
 
@@ -26,18 +35,8 @@ three talks, and time for discussion and networking.
 {% endfor %}
 </ul>
 
-## Joining a meetup
 
-Upcoming meetup details are published on the individual event pages above.
-Announcements are made through *aosp-devs.org* and the
-[aosp-devs Discord server](https://discord.gg/hH59SPKYv8). You can also follow
-the site RSS feed or contact the organisers at
-[devs@aosp-devs.org](mailto:devs@aosp-devs.org).
-
-For online sessions, access details are shared through the channels listed on
-each event page.
-
-## Speak at a meetup
+## Speaking at a meetup
 
 Input is welcome from all members of the group. Talks can be formal or
 informal: slides, demos, short presentations, or open discussions are all
@@ -54,12 +53,13 @@ Typical topics include:
 * security topics including SELinux, seccomp, and sandboxing
 * encryption, secure boot, and trusted execution environments
 
-If you have something to say, get in touch on Discord or by email.
+If you have something to say, get in touch on Discord or by email. See the
+contact details on [about](/about/).
 
 ## History
 
 The meetup started in March 2022 as an independent online series for AOSP and
-AAOS developers. For the first years, it was spread across two places:
+AAOS developers by Chris Simmonds. For the first years, it was spread across two places:
 
 * [aospandaaos.github.io](https://aospandaaos.github.io/) for slides, videos,
   and past meetup pages
@@ -68,4 +68,4 @@ AAOS developers. For the first years, it was spread across two places:
 
 The meetup is now continued here on *aosp-devs.org*, which is the main entry
 point for new events. Slides and videos from past talks remain available on
-the [AOSP and AAOS meetup archive](https://aospandaaos.github.io/).
+the [AOSP and AAOS meetup archive](https://aospandaaos.github.io/meetup.html).
