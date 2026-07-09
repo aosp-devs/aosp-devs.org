@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "March 2023: Devboard maintenance in AOSP / Debugging Made Easy"
+title: "March 2023: Devboards and Debugging"
 ---
 
 This page preserves the agenda for the March 2023 AOSP and AAOS Meetup.

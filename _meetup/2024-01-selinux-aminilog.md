@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "January 2024: SELinux in Android / aminilog – AOSP styled logging macros for NDK projects"
+title: "January 2024: SELinux and Aminilog"
 ---
 
 This page preserves the agenda for the January 2024 AOSP and AAOS Meetup.

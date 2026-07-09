@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "September 2023: Interactive AOSP-based cloud streaming solution"
+title: "September 2023: Cloud Streaming"
 ---
 
 This page preserves the agenda for the September 2023 AOSP and AAOS Meetup.

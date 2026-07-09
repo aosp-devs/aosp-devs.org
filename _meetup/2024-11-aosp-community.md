@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "November 2024: The AOSP community and aosp-devs.org"
+title: "November 2024: AOSP Community"
 ---
 
 This page preserves the agenda for the November 2024 AOSP and AAOS Meetup.

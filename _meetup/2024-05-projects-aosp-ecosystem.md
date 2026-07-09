@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "May 2024: Introducing AOSP Meetup Projects / Automotive AOSP Ecosystem / You Can't Escape the Past"
+title: "May 2024: Projects and the AOSP Ecosystem"
 ---
 
 This page preserves the agenda for the May 2024 AOSP and AAOS Meetup.

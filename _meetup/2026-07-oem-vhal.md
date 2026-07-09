@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "July 2026: The OEM VHAL"
+title: "July 2026: OEM VHAL"
 ---
 
 This meetup will take place online via Jitsi. To join the meetup,
@@ -35,4 +35,3 @@ A chance for people to introduce themselves and give a brief overview of what
 they are working on in a 5 minute slot.
 
 ### 19:30 Session ends
-

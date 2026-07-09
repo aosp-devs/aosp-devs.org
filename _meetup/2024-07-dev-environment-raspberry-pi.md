@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "July 2024: AOSP Development Environment best practices, tips, and tricks / AAOS on Raspberry Pi: an on-going project"
+title: "July 2024: Dev Environments and Raspberry Pi"
 ---
 
 This page preserves the agenda for the July 2024 AOSP and AAOS Meetup.

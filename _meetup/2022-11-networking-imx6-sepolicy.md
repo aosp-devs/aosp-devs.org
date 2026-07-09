@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "November 2022: ConnectivityService and networking in Android / Securing iMX6 Android Devices, Part 2 / Debugging SEPolicy"
+title: "November 2022: Networking, iMX6, and SEPolicy"
 ---
 
 This page preserves the agenda for the November 2022 AOSP and AAOS Meetup.

@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "September 2025: Mastering SELinux in AOSP: From Frustration to Control"
+title: "September 2025: SELinux Control"
 ---
 
 This page preserves the agenda for the September 2025 AOSP and AAOS Meetup.

@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "September 2024: The COVESA AOSP SDK / Feedback from OSS and Linux Plumbers Conference in Vienna"
+title: "September 2024: COVESA SDK and Vienna"
 ---
 
 This page preserves the agenda for the September 2024 AOSP and AAOS Meetup.

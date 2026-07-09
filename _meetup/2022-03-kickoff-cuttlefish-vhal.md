@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "March 2022: Aims and Objectives / The Cuttlefish Emulator / VHAL SocketComm"
+title: "March 2022: Kickoff, Cuttlefish, and VHAL"
 ---
 
 This page preserves the agenda for the March 2022 AOSP and AAOS Meetup.

@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "May 2022: Securing iMX6 Android Devices / Long term support for Enterprise Android Devices / Introduction to COVESA / Browsing and debugging framework code"
+title: "May 2022: Security, LTS, and COVESA"
 ---
 
 This page preserves the agenda for the May 2022 AOSP and AAOS Meetup.

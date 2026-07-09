@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "January 2025: Bugreport is your friend / Exploring Android Kiosk Variants"
+title: "January 2025: Bugreports and Kiosks"
 ---
 
 This page preserves the agenda for the January 2025 AOSP and AAOS Meetup.

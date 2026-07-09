@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "March 2024: Android Fragmentation in the Automotive Industry / What to expect in Android 15"
+title: "March 2024: Fragmentation and Android 15"
 ---
 
 This page preserves the agenda for the March 2024 AOSP and AAOS Meetup.

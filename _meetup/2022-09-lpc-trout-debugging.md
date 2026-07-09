@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "September 2022: Linux Plumbers Conference / Android Trout / You can do better than bug reports / gdb & lldb debugging custom RPI4 linux kernel"
+title: "September 2022: LPC, Trout, and Debugging"
 ---
 
 This page preserves the agenda for the September 2022 AOSP and AAOS Meetup.

@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "July 2025: Writing Android system apps"
+title: "July 2025: System Apps"
 ---
 
 This page preserves the agenda for the July 2025 AOSP and AAOS Meetup.

@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "July 2022: Extending the Vehicle HAL with vendor properties / Debugging native platform code using LLDB / Keeping Embedded Android Up To Date"
+title: "July 2022: VHAL, LLDB, and Updates"
 ---
 
 This page preserves the agenda for the July 2022 AOSP and AAOS Meetup.

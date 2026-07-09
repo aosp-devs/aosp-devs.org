@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "May 2023: Broadcast Radio in AAOS / RAMSES / Evolution of an Android OTA management application"
+title: "May 2023: Radio, RAMSES, and OTA"
 ---
 
 This page preserves the agenda for the May 2023 AOSP and AAOS Meetup.

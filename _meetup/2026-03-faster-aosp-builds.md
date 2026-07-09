@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "March 2026: Acceleration x AOSP: Slashing build times without migration"
+title: "March 2026: Faster AOSP Builds"
 ---
 
 This page preserves the agenda for the March 2026 AOSP and AAOS Meetup.

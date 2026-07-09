@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "January 2026: Keeping Android up to date when the OEM fails to / Debugging Android OS at Scale: AI-Powered Log Analysis"
+title: "January 2026: OEM Updates and Log Analysis"
 ---
 
 This page preserves the agenda for the January 2026 AOSP and AAOS Meetup.

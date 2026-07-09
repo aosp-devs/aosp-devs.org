@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "March 2025: Using Vendor APEX in AOSP / What to expect in Android 16"
+title: "March 2025: Vendor APEX and Android 16"
 ---
 
 This page preserves the agenda for the March 2025 AOSP and AAOS Meetup.

@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "July 2023: Binder RPC / Debugging AOSP using Android Studio - revisited"
+title: "July 2023: Binder RPC and Android Studio"
 ---
 
 This page preserves the agenda for the July 2023 AOSP and AAOS Meetup.

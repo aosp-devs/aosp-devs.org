@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "January 2023: App developers and Android Automotive OS / Thoughts about AOSP on Raspberry Pi 4"
+title: "January 2023: AAOS Apps and Raspberry Pi"
 ---
 
 This page preserves the agenda for the January 2023 AOSP and AAOS Meetup.

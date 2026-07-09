@@ -1,6 +1,6 @@
 ---
 layout: meetup
-title: "November 2023: Working with custom Android devices / Adventures with Systrace"
+title: "November 2023: Custom Devices and Systrace"
 ---
 
 This page preserves the agenda for the November 2023 AOSP and AAOS Meetup.
