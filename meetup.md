@@ -28,7 +28,8 @@ Access details are shared through the channels listed on each event page.
 ## Events
 
 <ul>
-{% for meetup in site.meetup %}
+{% assign meetups = site.meetup | sort: "path" | reverse %}
+{% for meetup in meetups %}
   <li>
     <a href="{{ meetup.url }}">{{ meetup.title }}</a>
   </li>
