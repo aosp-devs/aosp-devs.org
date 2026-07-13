@@ -1,18 +1,18 @@
 ---
 layout: meetup
-title: "July 2026: The OEM VHAL"
+title: "The July 2026 Meetup"
 ---
 
 This meetup will take place online via Jitsi. To join the meetup,
-please go to [meetup.com](https://www.meetup.com/the-aosp-and-aaos-meetup/events/314976125/?eventOrigin=group_upcoming_events)
+please go to [meetup.com](https://www.meetup.com/the-aosp-and-aaos-meetup/events/314976125/)
 and click *Attend online*:
 
-* Date and time: Wednesday, July 15, 2026, 7:00 PM to 8:30 PM CEST
-* Time in London: 6:00 PM to 7:30 PM BST (UTC+1)
+* Date: Wednesday 15<sup>th</sup> July 2026
+* Time: 18:00 to 19:30 London/UK (UTC+1), 19:00 to 20:30 CEST (UTC+2)
 
 ## Agenda
 
-Times below are in BST (UTC+1).
+Times below are **London/UK (UTC+1)**
 
 ### 18:00 Welcome and introduction
 
