@@ -25,7 +25,7 @@ the site [RSS feed](/feed.xml) as well.
 
 Access details are shared through the channels listed on each event page.
 
-## Events
+## Upcoming events
 
 <ul>
 {% for meetup in site.meetup %}
@@ -34,6 +34,9 @@ Access details are shared through the channels listed on each event page.
   </li>
 {% endfor %}
 </ul>
+
+## Past events
+[All talks are recorded and are available online](meetups-past.html)
 
 
 ## Speaking at a meetup
