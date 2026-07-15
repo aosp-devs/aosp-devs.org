@@ -13,7 +13,7 @@ We have a Discord server for discussion. Click the button to join us.
 
 <a href="https://discord.gg/hH59SPKYv8" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block">Join the Discord server</a>
 
-Or join one of the online or on-site events. See our [calendar](/calendar/).
+Or join one of the online or on-site events. See our [calendar](/calendar.html).
 
 
 ## What we do?
@@ -21,14 +21,14 @@ Or join one of the online or on-site events. See our [calendar](/calendar/).
 We organize and create a couple of things:
 
 * We run the above mentioned Discord server.
-* We maintain this website and occasionally publish a blog post on [blog](/blog/).
-* We publish a monthly newsletter since January 2025. They are posted also to our [blog](/blog/).
-* We run the [AOSP and AAOS Meetup](/meetup/) that was started by Chris Simmonds in 2022.
+* We maintain this website and occasionally publish a blog post on [blog](/blog.html).
+* We publish a monthly newsletter since January 2025. They are posted also to our [blog](/blog.html).
+* We run the [AOSP and AAOS Meetup](/meetup.html) that was started by Chris Simmonds in 2022.
 * We organized the [AOSP Devroom in 2025](https://fosdem.org/2025/schedule/track/aosp/) and
   helped to organize the [FOSS on Mobile devroom 2026](https://fosdem.org/2026/schedule/track/foss-on-mobile/) at
   [FOSDEM](https://fosdem.org/). Also we organized the [AOSP devroom 2025](https://fossunited.org/indiafoss/2025/devrooms/aosp)
   at [IndiaFOSS](https://fossunited.org/indiafoss/2025).
-* We maintain a [calendar](/calendar/) with AOSP releated on-site and online events.
+* We maintain a [calendar](/calendar.html) with AOSP releated on-site and online events.
 * We are active on social media [Linkedin (@aosp-devs)](https://www.linkedin.com/company/aosp-devs/) and
   [mastodon (@aosp_devs)](https://androiddev.social/@aosp_devs) and on [github account (@aosp-devs)](https://github.com/aosp-devs).
   Feel free to follow us!
@@ -51,7 +51,7 @@ We organize and create a couple of things:
 ### The AOSP and AAOS meetup
 
 The AOSP and AAOS meetup is an on-line meetup that happens every two months.
-To join the group, find out when the next meeting is and see past meetings, go to [AOSP and AAOS meetup](/meetup/).
+To join the group, find out when the next meeting is and see past meetings, go to [AOSP and AAOS meetup](/meetup.html).
 
 
 ### Android Open Source Project at FOSDEM 2026

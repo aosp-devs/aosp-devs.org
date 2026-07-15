@@ -57,7 +57,7 @@ Typical topics include:
 * encryption, secure boot, and trusted execution environments
 
 If you have something to say, get in touch on Discord or by email. See the
-contact details on [about](/about/).
+contact details on [about](/about.html).
 
 ## History
 
