@@ -14,9 +14,16 @@ feel free to open a [pull request here](https://github.com/aosp-devs/aosp-devs.o
 
 ### AOSP and AAOS July Meetup (online)
 
-* Link: [The AOSP and AAOS July Meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/314976125/)
-* Date and time: Wednesday, Jul 15 · 7:00 PM to 8:30 PM CEST
+* Link: [The AOSP and AAOS July Meetup](https://aosp-devs.org/meetup/2026-07-meetup.html)
+* Date and time: Wednesday 15<sup>th</sup> July 15, 19:00 to 20:30 CEST (UTC+2)
 * Location: online with Jitsi
+
+### AOSP and AAOS September Meetup (online)
+
+* Link: [The AOSP and AAOS September Meetup](https://aosp-devs.org/meetup/2026-09-meetup.html)
+* Date and time: Wednesday 16<sup>th</sup> September 2026 19:00, to 20:30 CEST (UTC+2)
+* Location: online with Jitsi
+
 
 ### IndiaFOSS (in-person)
 
@@ -46,6 +53,13 @@ feel free to open a [pull request here](https://github.com/aosp-devs/aosp-devs.o
 * Date: 7-9 OCT, 2026
 * CfP: open until 01 Jul 2026
 * Location: CITY CUBE, BERLIN, GERMANY
+
+### AOSP and AAOS November Meetup (online)
+
+* Link: [The AOSP and AAOS November Meetup](https://aosp-devs.org/meetup/2026-11-meetup.html)
+* Date and time: Wednesday 18<sup>th</sup> November 2026 19:00, to 20:30 CET (UTC+1)
+* Location: online with Jitsi
+
 
 ## Past events
 
