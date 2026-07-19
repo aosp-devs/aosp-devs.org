@@ -4,6 +4,33 @@ layout: default
 
 # Past Events
 
+## The July 2026 Meetup
+
+15<sup>th</sup> July 2026
+
+### Introduction
+The announcement that the AOSP and AAOS Meetup is migrating from Meetup.com
+to aosp-devs.org
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2026-july-introduction.pdf)
+
+### Talk 1: The OEM VHAL
+
+The default Vehicle HAL that is part of AAOS has strict rules about which
+vehicle signals are available to apps. For system apps signed by the OEM, all
+signals are available. For all other apps, only a very restricted subset is
+allowed.
+
+The OEM VHAL extends the vehicle property interface to allow all apps
+controlled access to all signals, mediated at run-time by the extended VHAL.
+The OEM VHAL is a work in progress, and feedback is welcome.
+
+Jan Kubovy (BMW)
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2026-july-jkubovy-oem-vhal.pdf)
+[video](https://peertube.tech/w/i3V53FYHrWRWBZHMgBBv7u)
+
+
 ## The May 2026 Meetup
 
 27<sup>th</sup> May 2026

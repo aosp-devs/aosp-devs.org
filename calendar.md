@@ -12,12 +12,6 @@ feel free to open a [pull request here](https://github.com/aosp-devs/aosp-devs.o
 
 ## Upcoming Events
 
-### AOSP and AAOS July Meetup (online)
-
-* Link: [The AOSP and AAOS July Meetup](https://aosp-devs.org/meetup/2026-07-meetup.html)
-* Date and time: Wednesday 15<sup>th</sup> July 15, 19:00 to 20:30 CEST (UTC+2)
-* Location: online with Jitsi
-
 ### AOSP and AAOS September Meetup (online)
 
 * Link: [The AOSP and AAOS September Meetup](https://aosp-devs.org/meetup/2026-09-meetup.html)
