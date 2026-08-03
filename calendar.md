@@ -59,6 +59,15 @@ feel free to open a [pull request here](https://github.com/aosp-devs/aosp-devs.o
 
 This list contains past events since december 2025.
 
+### AOSP and AAOS July Meetup (online)
+
+* Link: [The AOSP and AAOS July Meetup](https://www.meetup.com/the-aosp-and-aaos-meetup/events/314976125/)
+* Date and time: Wednesday, Jul 15 · 7:00 PM to 8:30 PM CEST
+* Recordings: [meetups](https://aosp-devs.org/meetups-past.html)
+* Content:
+   * Talk: The OEM VHAL - Jan Kubovy (BMW)
+
+
 ### Open Source Summit India (in-person)
 
 * Link: [Open Source Summit India](https://events.linuxfoundation.org/open-source-summit-india/)
