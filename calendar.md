@@ -24,35 +24,44 @@ feel free to open a [pull request here](https://github.com/aosp-devs/aosp-devs.o
 * Link: [IndiaFOSS 2026](https://fossunited.org/indiafoss/2026)
 * Date: 26-27 September 2026
 * Location: NIMHANS Convention Centre, Bengaluru, India
-* Including [AOSP devroom](https://fossunited.org/indiafoss/2026/devrooms/aosp). CfP is open until June 15th.
+* Including [AOSP devroom](https://fossunited.org/indiafoss/2026/devrooms/aosp).
+
 
 ### Linux Plumbers Conference (in-person and remote)
 
 * Link: [LPC 2026 - Overview](https://lpc.events/event/20/)
 * Date: Oct 5 – 7, 2026
 * Location: Prague Congress Centre, Prague, Czechia
-* Including [Android MC (Micro Conference)](https://lpc.events/event/20/contributions/2324/). CfP is open until August 7th.
+* Including [Android MC (Micro Conference)](https://lpc.events/event/20/contributions/2324/).
+  Here is the [schedule](https://lpc.events/event/20/sessions/259/#20261005)
 
 ### Open Source Summit Europe (in-person)
 
 * Link: [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)
 * Date: 7-9 October 2026
 * Location: Prague Congress Centre, Prague, Czechia
-* CfP open until: [Wednesday, 24 June at 23:59 CEST (UTC +2)](https://events.linuxfoundation.org/open-source-summit-europe/program/cfp/#overview)
+* Here is the [schedule](https://events.linuxfoundation.org/open-source-summit-europe/program/schedule/)
 
 ### next.app devcon / droidcon Berlin (in-person)
 
 * Link: [next.app devcon](https://www.nextappcon.com/)
 * Link: [droidcon](https://www.nextappcon.com/droidcon)
 * Date: 7-9 OCT, 2026
-* CfP: open until 01 Jul 2026
 * Location: CITY CUBE, BERLIN, GERMANY
+* Here is the [agenda](https://www.nextappcon.com/agenda)
 
 ### AOSP and AAOS November Meetup (online)
 
 * Link: [The AOSP and AAOS November Meetup](https://aosp-devs.org/meetup/2026-11-meetup.html)
 * Date and time: Wednesday 18<sup>th</sup> November 2026 19:00, to 20:30 CET (UTC+1)
 * Location: online with Jitsi
+
+
+### FOSDEM (in-person and remote)
+
+* Link: [FOSDEM'27](https://fosdem.org/2027/)
+* Date: 30 & 31 January 2027
+* Location: Brussels, Europe
 
 
 ## Past events
