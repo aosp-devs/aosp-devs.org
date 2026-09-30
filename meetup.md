@@ -28,15 +28,13 @@ Access details are shared through the channels listed on each event page.
 ## Upcoming events
 
 <ul>
-{% for meetup in site.meetup %}
+{% assign meetups = site.meetup | where: 'past', 'false' %}
+{% for meetup in meetups %}
   <li>
     <a href="{{ meetup.url }}">{{ meetup.title }}</a>
   </li>
 {% endfor %}
 </ul>
-
-## Past events
-[All talks are recorded and are available online](meetups-past.html)
 
 
 ## Speaking at a meetup
@@ -58,6 +56,20 @@ Typical topics include:
 
 If you have something to say, get in touch on Discord or by email. See the
 contact details on [about](/about.html).
+
+## Past events
+
+<ul>
+{% assign meetups = site.meetup | where: 'past', 'true' %}
+{% for meetup in meetups %}
+  <li>
+    <a href="{{ meetup.url }}">{{ meetup.title }}</a>
+  </li>
+{% endfor %}
+</ul>
+
+And the recordings of older meetups you can find on the [past meetup events page](/meetups-past.html).
+
 
 ## History
 

@@ -2,25 +2,10 @@
 layout: default
 ---
 
-# Past Events
+# Past Meetup Events
 
-## The September 2026 Meetup
-
-16<sup>th</sup> July 2026
-
-### Using AI Agents with AOSP - best practice: a panel discussion
-
-AOSP is a large code base with some lengthy workflows. AI agents are an
-obvious way to get things done quickly and efficiently. There isn't much
-real-world, hands-on experience that is specific to AOSP out there at the moment,
-so we convened a mixture of real experts to share their experiences.
-Toppics covered included AI agents for coding, deploying, testing, and analysing logs
-
-The panel:
-
-Karim Yaghmour, Daniel Fages, and Viktor Mukha
-
-[video](https://peertube.tech/w/4B7jL2mayEvyayNvQTHdMB)
+Here you can find the past meetup events before August 2026. Newer events are
+listed on the [meetup page](/meetup).
 
 
 ## The July 2026 Meetup
