@@ -12,19 +12,6 @@ feel free to open a [pull request here](https://github.com/aosp-devs/aosp-devs.o
 
 ## Upcoming Events
 
-### AOSP and AAOS September Meetup (online)
-
-* Link: [The AOSP and AAOS September Meetup](https://aosp-devs.org/meetup/2026-09-meetup.html)
-* Date and time: Wednesday 16<sup>th</sup> September 2026 19:00, to 20:30 CEST (UTC+2)
-* Location: online with Jitsi
-
-
-### IndiaFOSS (in-person)
-
-* Link: [IndiaFOSS 2026](https://fossunited.org/indiafoss/2026)
-* Date: 26-27 September 2026
-* Location: NIMHANS Convention Centre, Bengaluru, India
-* Including [AOSP devroom](https://fossunited.org/indiafoss/2026/devrooms/aosp).
 
 
 ### Linux Plumbers Conference (in-person and remote)
@@ -67,6 +54,23 @@ feel free to open a [pull request here](https://github.com/aosp-devs/aosp-devs.o
 ## Past events
 
 This list contains past events since december 2025.
+
+### IndiaFOSS (in-person)
+
+* Link: [IndiaFOSS 2026](https://fossunited.org/indiafoss/2026)
+* Date: 26-27 September 2026
+* Location: NIMHANS Convention Centre, Bengaluru, India
+* Including [AOSP devroom](https://fossunited.org/indiafoss/2026/devrooms/aosp).
+* Recordings as one video with chapter makers available on [AOSP devroom](https://fossunited.org/indiafoss/2026/devrooms/aosp).
+
+
+### AOSP and AAOS September Meetup (online)
+
+* Link: [The AOSP and AAOS September Meetup](https://aosp-devs.org/meetup/2026-09-meetup.html)
+* Date and time: Wednesday 16<sup>th</sup> September 2026 19:00, to 20:30 CEST (UTC+2)
+* Recordings are available on [The September 2026 Meetup](/meetup/2026-09-meetup.html)
+   * Talk: Using AI Agents with AOSP - best practice: a panel discussion
+
 
 ### AOSP and AAOS July Meetup (online)
 
