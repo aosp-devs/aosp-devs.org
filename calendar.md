@@ -9,37 +9,15 @@ Upcoming events are at the top and past events at the bottom of the page.
 If you think that one event is missing,
 feel free to open a [pull request here](https://github.com/aosp-devs/aosp-devs.org).
 
-
 ## Upcoming Events
 
 
 
-### Linux Plumbers Conference (in-person and remote)
 
-* Link: [LPC 2026 - Overview](https://lpc.events/event/20/)
-* Date: Oct 5 – 7, 2026
-* Location: Prague Congress Centre, Prague, Czechia
-* Including [Android MC (Micro Conference)](https://lpc.events/event/20/contributions/2324/).
-  Here is the [schedule](https://lpc.events/event/20/sessions/259/#20261005)
-
-### Open Source Summit Europe (in-person)
-
-* Link: [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)
-* Date: 7-9 October 2026
-* Location: Prague Congress Centre, Prague, Czechia
-* Here is the [schedule](https://events.linuxfoundation.org/open-source-summit-europe/program/schedule/)
-
-### next.app devcon / droidcon Berlin (in-person)
-
-* Link: [next.app devcon](https://www.nextappcon.com/)
-* Link: [droidcon](https://www.nextappcon.com/droidcon)
-* Date: 7-9 OCT, 2026
-* Location: CITY CUBE, BERLIN, GERMANY
-* Here is the [agenda](https://www.nextappcon.com/agenda)
 
 ### AOSP and AAOS November Meetup (online)
 
-* Link: [The AOSP and AAOS November Meetup](https://aosp-devs.org/meetup/2026-11-meetup.html)
+* Link: [The AOSP and AAOS November Meetup](/meetup/2026-11-meetup.html)
 * Date and time: Wednesday 18<sup>th</sup> November 2026 19:00, to 20:30 CET (UTC+1)
 * Location: online with Jitsi
 
@@ -49,11 +27,39 @@ feel free to open a [pull request here](https://github.com/aosp-devs/aosp-devs.o
 * Link: [FOSDEM'27](https://fosdem.org/2027/)
 * Date: 30 & 31 January 2027
 * Location: Brussels, Europe
+* CfP: [FOSS on Mobile devroom](https://lists.fosdem.org/hyperkitty/list/fosdem@lists.fosdem.org/thread/NSCBBGPD2HPXTDOSMU2NUP37RWLH2D3Y/)
+  Submission open until 22nd November
 
 
 ## Past events
 
 This list contains past events since december 2025.
+
+### Open Source Summit Europe (in-person)
+
+* Link: [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)
+* Date: 7-9 October 2026
+* Location: Prague Congress Centre, Prague, Czechia
+* Here is the [schedule](https://events.linuxfoundation.org/open-source-summit-europe/program/schedule/)
+* The recordings are available in a [playlist on Youtube](https://www.youtube.com/watch?v=0SR3jExy9fA&list=PLeGlGrJwr9P8).
+
+### next.app devcon / droidcon Berlin (in-person)
+
+* Link: [next.app devcon](https://www.nextappcon.com/)
+* Link: [droidcon](https://www.nextappcon.com/droidcon)
+* Date: 7-9 OCT, 2026
+* Location: CITY CUBE, BERLIN, GERMANY
+* Here is the [agenda](https://www.nextappcon.com/agenda)
+* Recordings are on [Youtube](https://www.youtube.com/playlist?list=PLSqKLdsvBULU)
+
+
+### Linux Plumbers Conference (in-person and remote)
+
+* Link: [LPC 2026 - Overview](https://lpc.events/event/20/)
+* Date: Oct 5 – 7, 2026
+* Location: Prague Congress Centre, Prague, Czechia
+* Including [Android MC (Micro Conference)](https://lpc.events/event/20/contributions/2324/).
+  Here is the [schedule](https://lpc.events/event/20/sessions/259/#20261005)
 
 ### IndiaFOSS (in-person)
 
