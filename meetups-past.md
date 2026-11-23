@@ -8,6 +8,38 @@ Here you can find the past meetup events before August 2026. Newer events are
 listed on the [meetup page](/meetup).
 
 
+## The November 2026 Meetup
+
+### Talk 1: Noctua: On-Device AI on Android with ExecuTorch
+
+An open-source project running a fully on-device that is an AI health coach
+for the Oura Ring data. No cloud inference. Built with PyTorch/ExecuTorch,
+Kotlin, and Jetpack Compose. The talk walks through the architecture: the
+PyTorch→ExecuTorch export pipeline, on-device inference on Android,
+and the privacy design of keeping health data on the device.
+
+Ranjith Ragavan
+
+[slides](https://2net.co.uk/slides/aosp-aaos-meetup/2026-november-rragavan-noctua.pdf)
+[video](https://peertube.tech/w/6BWCEnbLM8VY9ZfaU4AwbM)
+
+
+## The September 2026 Meetup
+
+### Talk 1: Using AI Agents with AOSP - best practice: a panel discussion
+
+AOSP is a large code base with some lengthy workflows. AI agents are an
+obvious way to get things done quickly and efficiently. There isn't much
+real-world, hands-on experience that is specific to AOSP out there at the moment,
+so we have convened a mixture of real experts to share their experiences.
+At the very least we will be talking about using AI agents for coding, deploying
+to the target, testing, and analysing logs
+
+The panel includes 
+Karim Yaghmour, Daniel Fages, and Viktor Mukha, with Chris Simmonds in the chair.
+
+The [video](https://peertube.tech/w/4B7jL2mayEvyayNvQTHdMB)
+
 ## The July 2026 Meetup
 
 ### Introduction
